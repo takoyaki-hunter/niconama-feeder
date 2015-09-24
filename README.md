@@ -23,6 +23,7 @@
   GTKはちょっとドキュメントが少ないところがありますが、手軽に出来て便利です。デザインもほとんどコーディングだけで出来ますが、XamarinStudioにはデザインツールが付いています。それを使うと自動的にコードとして生成します
 　このソフトの構成は
   Window
+  
     →Vbox
       →Notebook, Toolbar
         →ScrolledWindow
